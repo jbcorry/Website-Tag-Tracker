@@ -1,0 +1,27 @@
+{
+  "name": "tag-tracker",
+  "version": "1.0.0",
+  "description": "The greatest web crawler of all time",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbcorry/Website-Tag-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbcorry/Website-Tag-Tracker/issues"
+  },
+  "homepage": "https://github.com/jbcorry/Website-Tag-Tracker#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "lite-server": "^2.2.0"
+  }
+}
